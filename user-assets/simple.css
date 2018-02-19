@@ -1,0 +1,18 @@
+.red {
+	background-color: lightpink !important;
+	}
+.yellow {
+	background-color: yellow !important;
+	}
+.blue {
+    background-color: lightblue !important;
+	}
+.green {
+    background-color: green !important;
+	}  
+.button {
+    float: left;  padding-left: 5px;  padding-right: 5px !important;
+	}
+.tall {
+    min-height: 200px !important;
+}
